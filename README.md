@@ -3,6 +3,7 @@ A project made in the realm of 42 Paris, we had to implement a variation of Edmu
 
     usage: ./lem-in [--graphic | --nblines | --paths] < source_file
     source files can be found in test_maps
+    When the visualizer is active, press N to advance one turn
 
 We were given 125/100 (maximum grade) for this project.
 
